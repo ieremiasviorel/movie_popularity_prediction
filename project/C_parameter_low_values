@@ -1,0 +1,9 @@
+value: 10
+train error:  0.50
+test error:  0.76
+value: 30
+train error:  0.49
+test error:  0.75
+value: 60
+train error:  0.51
+test error:  0.77

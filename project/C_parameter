@@ -1,0 +1,18 @@
+value: 100
+train error:  0.53
+test error:  0.79
+value: 300
+train error:  0.60
+test error:  0.87
+value: 600
+train error:  1.80
+test error:  2.03
+value: 1000
+train error:  1.80
+test error:  2.03
+value: 1500
+train error:  1.80
+test error:  2.03
+value: 2000
+train error:  1.80
+test error:  2.03

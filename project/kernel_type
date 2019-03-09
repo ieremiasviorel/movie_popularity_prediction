@@ -1,0 +1,9 @@
+kernel type: linear
+train error:  0.53
+test error:  0.79
+kernel type: poly
+train error:  0.98
+test error:  0.97
+kernel type: rbf
+train error:  0.62
+test error:  0.74
